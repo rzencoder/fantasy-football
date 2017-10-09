@@ -1,6 +1,14 @@
-# Fantasy-Football
+# Vue Fantasy Football
 
+Demo: https://rzencoder.github.io/fantasy-football/
 
+First mini project to practice using Vue.js.
+Fantasy football team selector. Select your best 11 players for under £100m
+
+Built using:
+* Vue
+* Vue-Cli
+* Sass
 
 ## Build Setup
 
